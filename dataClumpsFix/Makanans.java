@@ -41,9 +41,5 @@ public class Makanans {
         }
         return true;
     }
-
-    void add(Name name, Date startDate, Date expDate) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
 }
 
